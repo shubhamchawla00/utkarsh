@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Table-of-Contents'/>
+        <page name='One-sided-ranges'/>
+        <page name='Strings'/>
+        <page name='Key-paths'/>
+        <page name='Serialization-and-archiving'/>
+        <page name='Composing-classes-protocols'/>
+        <page name='Associated-type-constraints'/>
+        <page name='Limiting-objc-inference'/>
+    </pages>
+</playground>
